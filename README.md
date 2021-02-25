@@ -14,3 +14,9 @@ Data is generated randomly, and spoofing data is simulated by adding guassian no
 
 At the end intelligent Auth Algorithm is implemented by computing RSS(Recieved Signal Strength).
 
+The other code is just the simulation of communication system by AutoEncoders.
+The third code is a simulation based on paper 
+'A Learning Approach for Physical Layer Authentication Using Adaptive Neural Network paper '
+by XIAOYING, JIANMEI DAI, AND MONSON HAYES 
+
+
